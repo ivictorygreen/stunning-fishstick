@@ -30,17 +30,9 @@
 **git checkout -b branch-name** - создать ветку с названием branch_name и сразу туда перейти внутрь
 **git branch -D BRANCH_NAME** - удалить еще не слитую папку
 **git branch -d BRANCH_NAME** - удалить уже слитую папку
-rtrgrfgfg
-fgfgf
-ddbfd
-dfgdfg
+
 ## КОМАНДЫ ДЛЯ ОФОРМЛЕНИЯ ТЕКСТА
-dfdfsdf
-dcdsd
-dsfdsgds
-55555
-kljh
-ghghg
+
 > Тут могла бы быть цитата.
 >> И подцитата
 >>> И под-подцитата
